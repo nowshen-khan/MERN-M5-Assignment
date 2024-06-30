@@ -1,4 +1,4 @@
-# Ostad-M5-Assignment
+#Full-Stack-Web-Development-with-MERN-M5-Assignment
 In this assignment, I have to build a template using HTML,  CSS, and Bootstrap
 
 Requirements:
